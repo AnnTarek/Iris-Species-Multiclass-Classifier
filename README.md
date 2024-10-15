@@ -11,7 +11,7 @@ Total samples: 150 <br>
 It's a balanced dataset as well. <br>
 <br>
 This is the pairplot of the dataset <br>
-![Alt text][[pairplot-iris.png]]
+![Alt text](pairplot-iris.png)
 
 **Steps to run the code**
 1. Download the ipynb file and the dataset file. <br>
